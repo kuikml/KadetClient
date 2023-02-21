@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="f576e5f7-32d2-4cc4-91d8-8c65a2c5f729" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/Design_Time_Addresses/KadetServiceProject/Service1/" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="item.xsd" MetadataType="Schema" ID="5866b39b-0f1f-4e08-8b66-30658c534b2c" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/KadetServiceProject/Service1/?xsd=xsd2" />
+    <MetadataFile FileName="KadryService.wsdl" MetadataType="Wsdl" ID="bae3c70b-8222-49f7-bb99-9b76e41ef2cc" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/KadetServiceProject/Service1/?wsdl" />
+    <MetadataFile FileName="item1.xsd" MetadataType="Schema" ID="03fe6a68-0df6-4f89-95ca-31a8815fb439" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/KadetServiceProject/Service1/?xsd=xsd1" />
+    <MetadataFile FileName="item2.xsd" MetadataType="Schema" ID="c00284d7-ddbd-44f3-aa88-ee2a20b986c8" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/KadetServiceProject/Service1/?xsd=xsd0" />
+    <MetadataFile FileName="item.disco" MetadataType="Disco" ID="fcaa54bc-be0e-41b8-ba64-c0be7a552e51" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/KadetServiceProject/Service1/?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
